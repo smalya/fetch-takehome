@@ -1,0 +1,24 @@
+Run started at: 2025-04-21 23:14:12
+dev-sre-take-home-exercise-rubric.us-east-1.recruiting-public.fetchrewards.com has 25% availability percentage
+www.google.com has 50% availability percentage
+httpbin.org has 0% availability percentage
+blah has 0% availability percentage
+---
+Run started at: 2025-04-21 23:29:24
+dev-sre-take-home-exercise-rubric.us-east-1.recruiting-public.fetchrewards.com has 0% availability percentage
+www.google.com has 50% availability percentage
+httpbin.org has 0% availability percentage
+blah has 0% availability percentage
+---
+Run started at: 2025-04-21 23:29:40
+dev-sre-take-home-exercise-rubric.us-east-1.recruiting-public.fetchrewards.com has 25% availability percentage
+www.google.com has 50% availability percentage
+httpbin.org has 50% availability percentage
+blah has 0% availability percentage
+---
+Run started at: 2025-04-21 23:29:55
+dev-sre-take-home-exercise-rubric.us-east-1.recruiting-public.fetchrewards.com has 25% availability percentage
+www.google.com has 50% availability percentage
+httpbin.org has 50% availability percentage
+blah has 0% availability percentage
+---
